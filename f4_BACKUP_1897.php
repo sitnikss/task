@@ -8,6 +8,5 @@ echo "Hello Git:";
   asdasd
 =======
    echo "Branch master";
-   echo "Changes";
   
 >>>>>>> master
