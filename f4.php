@@ -9,5 +9,6 @@ echo "Hello Git:";
 =======
    echo "Branch master";
    echo "Changes";
+   echo "qweqwe"
   
 >>>>>>> master
